@@ -4,7 +4,6 @@ import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 // Change code below this line
 
-console.log(galleryItems);
 const galleryEl = document.querySelector('.gallery');
 
 // Створення і рендер розмітки на підставі масиву даних galleryItems і наданого шаблону елемента галереї.
